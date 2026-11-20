@@ -1,7 +1,7 @@
 # Huǒhuo · Repaso HSK1
 
 App web instalable (PWA) de repaso de chino HSK1 tipo juego, para Juan y 3-4 compañeros de clase.
-Publicada con GitHub Pages: https://juanherrf2307-ship-it.github.io/hsk1/
+Publicada con GitHub Pages: https://juanherrf2307-ship-it.github.io/HSK1/
 
 ## Reglas que no se rompen
 - Pinyin SIEMPRE encima de cada carácter (función `rb` / sintaxis `{汉字|pinyin}`). Nunca caracteres sueltos sin pinyin.
